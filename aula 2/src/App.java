@@ -60,4 +60,9 @@ public class App {
         Aluno aluno = alunos.get(id);
         alunos.remove(aluno);
     }
+
+    public static void deletar(integer 1d){
+        aluno
+    }
+    
 }
